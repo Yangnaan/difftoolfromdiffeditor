@@ -1,8 +1,12 @@
 {
-  "name": "difftoolfromdiffeditor",
-  "displayName": "DifftoolFromDiffEditor",
-  "description": "launch difftool form diff editor",
-  "version": "0.1.0",
+  "name": "difftoolext",
+  "displayName": "DifftoolExternal",
+  "publisher":"yangnan",
+  "description": "launch external difftool in diff editor",
+  "icon": "diff-files-128.png",
+  "iconSmall": "diff-files-64.png",
+  "version": "0.1.4",
+  "repository": "https://github.com/Yangnaan/difftoolfromdiffeditor.git",
   "engines": {
     "vscode": "^1.85.0"
   },
